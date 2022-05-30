@@ -1,0 +1,14 @@
+D:\repo2\gitconsole\gitconsole\bin\Debug\netcoreapp3.1\gitconsole.exe
+D:\repo2\gitconsole\gitconsole\bin\Debug\netcoreapp3.1\gitconsole.deps.json
+D:\repo2\gitconsole\gitconsole\bin\Debug\netcoreapp3.1\gitconsole.runtimeconfig.json
+D:\repo2\gitconsole\gitconsole\bin\Debug\netcoreapp3.1\gitconsole.runtimeconfig.dev.json
+D:\repo2\gitconsole\gitconsole\bin\Debug\netcoreapp3.1\gitconsole.dll
+D:\repo2\gitconsole\gitconsole\bin\Debug\netcoreapp3.1\gitconsole.pdb
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.csproj.AssemblyReference.cache
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.AssemblyInfoInputs.cache
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.AssemblyInfo.cs
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.csproj.CoreCompileInputs.cache
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.dll
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.pdb
+D:\repo2\gitconsole\gitconsole\obj\Debug\netcoreapp3.1\gitconsole.genruntimeconfig.cache
