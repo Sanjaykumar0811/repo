@@ -4,9 +4,9 @@ using System.Text;
 
 namespace gitconsole
 {
-    class employee
+    class customer
     {
-        public int Id { get; set; }
-        public string FullName { get; set; }
+        public int Code { get; set; }
+        public string Cust_Name { get; set; }
     }
 }
