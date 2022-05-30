@@ -6,7 +6,7 @@ namespace gitconsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello sandy!?");
+            Console.WriteLine("Hello World!");
         }
     }
 }
